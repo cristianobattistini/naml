@@ -32,3 +32,9 @@ Use \text{} to enclose normal text within math expressions.
 Keep subscripts and superscripts properly formatted using <sub> and <sup> for regular text, and _{} and ^{} within formulas.
 
 The explanation and the markdown must be the same"
+
+
+
+
+# links
+https://python.quantecon.org/svd_intro.html
